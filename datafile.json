@@ -1,0 +1,69 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "response": {
+      "docs": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "meta": {
+        "hits": 2301,
+        "offset": 380,
+        "time": 59
+      },
+      "facets": {
+        "type_of_material": {
+          "terms": [
+            {
+              "term": "News",
+              "count": 1902
+            },
+            {
+              "term": "Op-Ed",
+              "count": 113
+            },
+            {
+              "term": "Review",
+              "count": 92
+            },
+            {
+              "term": "Question",
+              "count": 57
+            },
+            {
+              "term": "Interactive Feature",
+              "count": 43
+            },
+            {
+              "term": "Schedule",
+              "count": 18
+            },
+            {
+              "term": "Letter",
+              "count": 14
+            },
+            {
+              "term": "News Analysis",
+              "count": 12
+            },
+            {
+              "term": "briefing",
+              "count": 12
+            },
+            {
+              "term": "Obituary (Obit)",
+              "count": 11
+            }
+          ]
+        }
+      }
+    }
+  }
